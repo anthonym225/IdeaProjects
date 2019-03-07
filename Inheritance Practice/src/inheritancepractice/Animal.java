@@ -31,5 +31,17 @@ public abstract class Animal {
         Dog realDog = (Dog) dog;
         realDog.eat();
         realDog.ruff();
+
+        Object str = "test";
+        String realS = (String) str;
+        realS.getBytes();
+        
+        // What if
+        Dog doggy = new Dog();
+        if(doggy instanceof Animal) {
+            Animal animal = (Animal) doggy;
+            animal.sleep();
+        }
+        doggy.sleep();
     }
 }
