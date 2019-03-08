@@ -35,7 +35,7 @@ public abstract class Animal {
         Object str = "test";
         String realS = (String) str;
         realS.getBytes();
-        
+
         // What if
         Dog doggy = new Dog();
         if(doggy instanceof Animal) {
