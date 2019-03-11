@@ -3,7 +3,7 @@ package exceptionspractice;
 public class ExceptionsPractice {
 
     public static void main(String[] args) {
-
+//Try catch block
         try {
             int[] c = new int[6];
             System.out.println("Element 6 at index 5 = " + c[5]);
