@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/QueuePractice.iml" filepath="$PROJECT_DIR$/QueuePractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfacePractice.iml" filepath="$PROJECT_DIR$/InterfacePractice.iml" />
     </modules>
   </component>
 </project>
