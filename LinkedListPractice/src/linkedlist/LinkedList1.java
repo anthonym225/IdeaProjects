@@ -2,10 +2,10 @@ package linkedlist;
 
 import java.util.LinkedList;
 
-public class LinkedList1 {
+public class LinkedList1<D> {
 
     // Properties
-    Node head;
+    Node<D> head;
     int count;
 
     // Constructors
@@ -13,7 +13,7 @@ public class LinkedList1 {
 //        head = null;
 //        count = 0;
 //    }
-    public LinkedList1(Node newHead){
+    public LinkedList1(Node<D> newHead){
         head = newHead;
         count = 1;
     }
@@ -21,9 +21,9 @@ public class LinkedList1 {
     // Methods
 
     // add
-    public void add(int newData){
-        Node temp = new Node(newData);
-        Node current = head;
+    public void add(D newData){
+        Node<D> temp = new Node(newData);
+        Node<D> current = head;
         while(current.getNext() != null) {
             current = current.getNext();
         }
@@ -32,11 +32,11 @@ public class LinkedList1 {
     }
 
     // get
-    public int get(int index){
-        if (index <= 0){
-            return -1;
-        }
-        Node current = head;
+    public D get(int index){
+//        if (index <= 0){
+//            return -1;
+//        }
+        Node<D> current = head;
         for(int i = 1; i < index; i++){
             current = current.getNext();
         }
@@ -56,7 +56,7 @@ public class LinkedList1 {
     // remove
     public void remove() {
         // remove from end of list
-        Node current = head;
+        Node<D> current = head;
         while (current.getNext().getNext() != null) {
             current = current.getNext();
         }

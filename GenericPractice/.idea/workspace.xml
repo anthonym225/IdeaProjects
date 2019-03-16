@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ef2f8b4-a272-4581-9076-f56a78a428d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arraypractice/ArrayPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraypractice/ArrayPractice.java" afterDir="false" />
+    <list default="true" id="b27bb0b3-4868-48e6-be0e-024216f400db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ArrayPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayPractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayPractice/src/arraypractice/ArrayPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayPractice/src/arraypractice/ArrayPractice.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/arraypractice/ArrayPractice.java">
+        <entry file="file://$PROJECT_DIR$/src/generics/Generics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="390">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -31,9 +31,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/person/Main.java" />
-        <option value="$PROJECT_DIR$/src/arraypractice/Main.java" />
-        <option value="$PROJECT_DIR$/src/arraypractice/ArrayPractice.java" />
+        <option value="$PROJECT_DIR$/src/generics/Main.java" />
+        <option value="$PROJECT_DIR$/src/generics/Generics.java" />
       </list>
     </option>
   </component>
@@ -51,7 +50,28 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GenericPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GenericPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GenericPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GenericPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GenericPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GenericPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="RunDashboard">
@@ -68,8 +88,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="arraypractice.ArrayPractice" />
-      <module name="ArrayPractice" />
+      <option name="MAIN_CLASS_NAME" value="generics.Generics" />
+      <module name="GenericPractice" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -87,11 +107,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5ef2f8b4-a272-4581-9076-f56a78a428d5" name="Default Changelist" comment="" />
-      <created>1552694269587</created>
+      <changelist id="b27bb0b3-4868-48e6-be0e-024216f400db" name="Default Changelist" comment="" />
+      <created>1552695205846</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552694269587</updated>
+      <updated>1552695205846</updated>
     </task>
     <servers />
   </component>
@@ -123,10 +143,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/arraypractice/ArrayPractice.java">
+    <entry file="file://$PROJECT_DIR$/src/generics/Generics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>

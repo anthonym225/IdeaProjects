@@ -2,31 +2,23 @@ package arraypractice;
 
 public class ArrayPractice {
 
-    public static void printArray(int[] array) {
+    public static <E> void printArray(E[] array) {
         System.out.println("[");
-        for (int i = 0; i < array.length; i++){
-            int item = array[i];
-            System.out.println(item);
-            if (i < array.length - 1) {
-                System.out.println(", ");
-            }
+
+        for (E element : array) {
+            System.out.print(element + " ");
         }
-        System.out.println("]");
+        System.out.println();
     }
 
-    public static void printArray(String[] array) {
-        System.out.println("[");
-        for(int i = 0; i < array.length; i++){
-            String item = array[i];
-            System.out.println(item);
-            if (i < array.length - 1){
-                System.out.println(", ");
-            }
-        }
-        System.out.println("]");
-    }
 
     public static void main(String[] args) {
 	// write your code here
+        Integer[] intArray1;
+        Integer[] intArray2 = new Integer[4];
+        printArray(intArray2);
+        Integer[] intArray3 = {5, 2, 9, 1, 3};
+
+        String[] shoppingList = {"bananas", "apples", "pears"};
     }
 }
