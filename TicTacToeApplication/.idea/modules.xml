@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BSTpractice.iml" filepath="$PROJECT_DIR$/BSTpractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToeApplication.iml" filepath="$PROJECT_DIR$/TicTacToeApplication.iml" />
     </modules>
   </component>
 </project>
