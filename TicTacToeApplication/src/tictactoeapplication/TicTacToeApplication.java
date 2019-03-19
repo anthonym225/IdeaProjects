@@ -14,7 +14,7 @@ public class TicTacToeApplication {
             //Setting up tokens/AI
             System.out.println("Welcome to Tic Tac Toe! You are about to go against the master of Tic Tac Toe \n But first, you must pick what character you want to be and which character I will be");
             System.out.println();
-            System.out.println("Enter a single character that will respresent you on the board");
+            System.out.println("Enter a single character that will represent you on the board");
             char playerToken = sc.next().charAt(0);
             System.out.println("Enter a single character that will represent your opponent on the the board");
             char opponentToken = sc.next().charAt(0);
