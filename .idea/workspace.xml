@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="cb5e4d76-49d7-40a2-8dfd-f46a4484bdba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance Practice/src/inheritancepractice/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance Practice/src/inheritancepractice/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BSTpractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BSTpractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RunTimePractice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RunTimePractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RunTimePractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RunTimePractice/src/runtimepractice/RunTimePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/RunTimePractice/src/runtimepractice/RunTimePractice.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +16,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/BSTpractice</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,14 +36,14 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="503" />
+    <option name="x" value="308" />
     <option name="y" value="23" />
-    <option name="width" value="937" />
+    <option name="width" value="1132" />
     <option name="height" value="767" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -46,7 +54,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -141,9 +149,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="503" y="23" width="937" height="767" extended-state="0" />
+    <frame x="308" y="23" width="1132" height="767" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14413407" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20366973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -194,6 +202,9 @@
           <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BSTpractice/src/BinarySearchTree/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -252,7 +263,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

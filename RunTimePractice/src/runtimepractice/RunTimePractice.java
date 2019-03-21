@@ -2,6 +2,7 @@ package runtimepractice;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Scanner;
 
 public class RunTimePractice {
 
@@ -74,5 +75,6 @@ public class RunTimePractice {
         endTime = System.currentTimeMillis();
         duration = endTime - startTime;
         System.out.println("Test: " + duration + "ms");
+
     }
 }
