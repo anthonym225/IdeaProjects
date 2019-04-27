@@ -31,5 +31,4 @@ int main() {
       std::cout << "Invalid \n";
       break;
   }
-
 }
