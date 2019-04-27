@@ -18,7 +18,7 @@ int main() {
       case 2 :
       std::cout << "Weight : " << (eWeight * 0.39) << " lbs \n";
       break;
-     case 3 :
+      case 3 :
       std::cout << "Weight : " << (eWeight * 2.65) << " lbs \n";
       break;
       case 4 :
