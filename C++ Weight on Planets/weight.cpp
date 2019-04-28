@@ -13,19 +13,19 @@ int main() {
 
   switch(planet){
       case 1 :
-      std::cout << "Weight : " << (eWeight * 0.78) << " lbs \n";
+      std::cout << "Your Weight : " << (eWeight * 0.78) << " lbs \n";
       break;
       case 2 :
-      std::cout << "Weight : " << (eWeight * 0.39) << " lbs \n";
+      std::cout << "Your Weight : " << (eWeight * 0.39) << " lbs \n";
       break;
       case 3 :
-      std::cout << "Weight : " << (eWeight * 2.65) << " lbs \n";
+      std::cout << "Your Weight : " << (eWeight * 2.65) << " lbs \n";
       break;
       case 4 :
-      std::cout << "Weight : " << (eWeight * 1.17) << " lbs \n";
+      std::cout << "Your Weight : " << (eWeight * 1.17) << " lbs \n";
       break;
       case 5 :
-      std::cout << "Weight : " << (eWeight * 1.05) << " lbs \n";
+      std::cout << "Your Weight : " << (eWeight * 1.05) << " lbs \n";
       break;
       default :
       std::cout << "Invalid \n";
